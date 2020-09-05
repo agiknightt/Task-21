@@ -1,0 +1,13 @@
+E:\prj\Task-21\Task-21\bin\Debug\netcoreapp3.1\Task-21.exe
+E:\prj\Task-21\Task-21\bin\Debug\netcoreapp3.1\Task-21.deps.json
+E:\prj\Task-21\Task-21\bin\Debug\netcoreapp3.1\Task-21.runtimeconfig.json
+E:\prj\Task-21\Task-21\bin\Debug\netcoreapp3.1\Task-21.runtimeconfig.dev.json
+E:\prj\Task-21\Task-21\bin\Debug\netcoreapp3.1\Task-21.dll
+E:\prj\Task-21\Task-21\bin\Debug\netcoreapp3.1\Task-21.pdb
+E:\prj\Task-21\Task-21\obj\Debug\netcoreapp3.1\Task-21.csprojAssemblyReference.cache
+E:\prj\Task-21\Task-21\obj\Debug\netcoreapp3.1\Task-21.AssemblyInfoInputs.cache
+E:\prj\Task-21\Task-21\obj\Debug\netcoreapp3.1\Task-21.AssemblyInfo.cs
+E:\prj\Task-21\Task-21\obj\Debug\netcoreapp3.1\Task-21.csproj.CoreCompileInputs.cache
+E:\prj\Task-21\Task-21\obj\Debug\netcoreapp3.1\Task-21.dll
+E:\prj\Task-21\Task-21\obj\Debug\netcoreapp3.1\Task-21.pdb
+E:\prj\Task-21\Task-21\obj\Debug\netcoreapp3.1\Task-21.genruntimeconfig.cache
