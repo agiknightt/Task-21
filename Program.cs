@@ -6,17 +6,22 @@ namespace Task_21
     {
         static void Main(string[] args)
         {
-            OutputNumber();
-        }
-
-        private static void OutputNumber()
-        {
-            bool enterOrExit = true;
-            bool result;
-
             int number;
 
-            while (enterOrExit)
+            number = inputValidationForNumber();
+
+            Console.WriteLine(number);
+            Console.ReadKey();
+        }
+
+        static int inputValidationForNumber()
+        {
+            bool outputNumeric = true;
+            bool result;
+
+            int number = 0;
+
+            while (outputNumeric)
             {
                 Console.Write("Введите число : ");
 
@@ -24,7 +29,7 @@ namespace Task_21
 
                 if (result == true)
                 {
-                    enterOrExit = false;
+                    outputNumeric = false;
                 }
                 else
                 {
@@ -35,7 +40,7 @@ namespace Task_21
                 Console.ReadKey();
                 Console.Clear();
             }
-            
+            return number;
         }
     }
 }
